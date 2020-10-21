@@ -1,0 +1,10 @@
+---
+title: "carat"
+---
+
+```{r}
+library(ggplot2)
+
+ggplot(diamonds) + 
+  geom_point(aes(x = cut, y = price, color = clarity))
+```

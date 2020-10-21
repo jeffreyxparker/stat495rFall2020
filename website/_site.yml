@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Diamonds"
+  left:
+    - text: "By Price"
+      href: price.html
+    - text: "By Carat"
+      href: carat.html
+output:
+  html_document:
+    theme: cosmo
+      
