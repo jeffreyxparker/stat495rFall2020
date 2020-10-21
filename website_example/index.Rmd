@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+This is the home page
+
+Hello World
+```{r}
+library(ggplot2)
+ggplot(diamonds) + 
+  geom_point(aes(x=carat, y = price, color = color))
+```
+
