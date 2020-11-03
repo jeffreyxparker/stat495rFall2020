@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This is a picture of me
+
+![](profile-pic.jpeg)
