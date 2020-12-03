@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606952492404.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "673343255",
+    "id" : "A8A0D989",
+    "lastKnownWriteTime" : 1606956051,
+    "last_content_update" : 1606956051748,
+    "path" : "~/Documents/BYU/Week 14 - RShiny/my_app/server.R",
+    "project_path" : "my_app/server.R",
+    "properties" : {
+        "cursorPosition" : "12,25",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
